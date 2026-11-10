@@ -112,7 +112,7 @@ Refer to the [Zigbee2MQTT documentation](https://www.zigbee2mqtt.io/) for detail
 ### Unstable Zigbee Connections
 
 - Use a USB extension cable.
-- Keep the dongle away from metal enclosures and USB 3.0 equipment.
+- Keep the dongle away from metal enclosures and USB equipment.
 - Add mains-powered Zigbee routers to improve mesh coverage.
 - Check for interference between Zigbee and Wi-Fi channels.
 
